@@ -1,0 +1,13 @@
+{
+  
+  // https://eslint.org/docs/latest/use/getting-started
+  // https://www.youtube.com/watch?v=fslNny60HzI
+
+  "extends":[
+    "eslint:recommended"
+  ],
+  "rules": {
+    "semi":"off",
+    "no-unused-vars":"warn"
+  }
+}
